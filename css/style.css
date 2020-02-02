@@ -1,0 +1,39 @@
+/*
+Permanent Marker: H1 Header;
+Gochi Hand : Smaller Hearder;
+Amatic SC: Paragraph, text;
+
+font-family: 'Permanent Marker', cursive;
+font-family: 'Gochi Hand', cursive;
+font-family: 'Amatic SC', cursive;
+*/
+
+
+
+body{
+	font-size: 20px;
+}
+
+
+h1{
+	font-family: 'Permanent Marker', cursive;
+	color: #FF3377;
+	text-align: center;
+}
+
+#header-nav{
+	background-color: #F0FDFC;
+	border-radius: 0px;
+	border: 0px;
+}
+
+#logo-img{
+	background: url("../images/logo_small.png") no-repeat;
+	width: 100px;
+	height: 100px;
+	margin: 10px 0px 10px 0px;
+}
+
+.material-icons{
+	font-size: 2rem;
+}
